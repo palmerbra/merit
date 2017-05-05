@@ -42,7 +42,7 @@ Partial Class MainForm
       Me.btnFord.Name = "btnFord"
       Me.btnFord.Size = New System.Drawing.Size(75, 23)
       Me.btnFord.TabIndex = 0
-      Me.btnFord.Text = "get"
+      Me.btnFord.Text = "git"
       Me.btnFord.UseVisualStyleBackColor = True
       '
       'txtFord
