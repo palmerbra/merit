@@ -8,12 +8,15 @@ Public Class MainForm
 
    ' loose goose kind of meme here watch out 
    Private Sub btnFord_Click(sender As Object, e As EventArgs) Handles btnFord.Click
+
       'webClient.Credentials = credentials
       ticker = txtTicker.Text
       ticker = ticker.ToUpper
       Try
-      result = webClient.DownloadString("https://api.intrinio.com/data_point?identifier=" & ticker & "&item=last_price")
-         txtFord.Text = result
+         result = webClient.DownloadString("https://api.intrinio.com/data_point?identifier=" & ticker & "&item=last_price")
+         Dim index = result.IndexOf("""value"":")
+         txtFord.Text = result.Substring(index + 8).TrimEnd("}")
+
       Catch ex As Exception
          MsgBox(ex.Message)
          txtTicker.Enabled = False
