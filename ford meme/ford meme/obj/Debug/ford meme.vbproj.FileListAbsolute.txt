@@ -9,3 +9,14 @@ C:\Users\Brayton\Documents\Visual Studio 2015\Projects\ford meme\ford meme\obj\D
 C:\Users\Brayton\Documents\Visual Studio 2015\Projects\ford meme\ford meme\obj\Debug\ford meme.xml
 C:\Users\Brayton\Documents\Visual Studio 2015\Projects\ford meme\ford meme\obj\Debug\ford meme.pdb
 C:\Users\Brayton\Documents\Visual Studio 2015\Projects\ford meme\ford meme\obj\Debug\ford meme.vbprojResolveAssemblyReference.cache
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\bin\Debug\ford meme.exe.config
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\obj\Debug\ford meme.exe
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\obj\Debug\ford meme.xml
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\obj\Debug\ford meme.pdb
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\bin\Debug\ford meme.exe
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\bin\Debug\ford meme.pdb
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\bin\Debug\ford meme.xml
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\obj\Debug\ford meme.vbprojResolveAssemblyReference.cache
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brayton\Desktop\the big merit\trunk\ford meme\ford meme\obj\Debug\ford meme.vbproj.GenerateResource.Cache
