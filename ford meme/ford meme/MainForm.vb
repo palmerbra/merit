@@ -18,8 +18,11 @@ Public Class MainForm
          txtFord.Text = result.Substring(index + 8).TrimEnd("}")
 
       Catch ex As Exception
+         If ex.Message.IndexOf("401") <> -1 Then
+            txtTicker.Enabled = False
+         End If
          MsgBox(ex.Message)
-         txtTicker.Enabled = False
+         txtFord.Clear()
       End Try
 
 
